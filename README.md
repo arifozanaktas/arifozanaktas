@@ -4,6 +4,7 @@
   
   <a href="https://www.linkedin.com/in/arifozanaktas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
   <a href="mailto:aoaktas@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-red"></a>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arifozanaktas" alt="Arifozanaktas" /></a> </p>
 </div>
 
 <br>
