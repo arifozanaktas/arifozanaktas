@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Arif Ozan AKTAŞ</h1>
-  <h3>Full Stack Developer | Passionate about coding 🚀</h3>
+  <h3>Full Stack Developer | Passionate about coding </h3>
   
   <a href="https://www.linkedin.com/in/arifozanaktas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="mailto:arifozan@example.com"><img src="https://img.shields.io/badge/Email-Contact-red"></a>
+  <a href="mailto:aoaktas@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-red"></a>
 </div>
 
 <br>
@@ -27,7 +27,7 @@ Ben Arif Ozan AKTAŞ, Full Stack Developer olarak yazılım dünyasında heyecan
 ## 📫 İletişim
 
 - LinkedIn: [LinkedIn Profil Linkiniz](https://www.linkedin.com/in/arifozanaktas/)
-- Email: [arifozan@example.com](mailto:arifozan@example.com)
+- Email: [arifozan@example.com](mailto:aoaktas@hotmail.com.com)
 
 ## 🤝 Katkıda Bulunma
 
