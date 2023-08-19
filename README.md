@@ -27,8 +27,8 @@ Ben Arif Ozan AKTAŞ, Full Stack Developer olarak yazılım dünyasında heyecan
 
 ## 📫 İletişim
 
-- LinkedIn: [LinkedIn Profil Linkiniz](https://www.linkedin.com/in/arifozanaktas/)
-- Email: [arifozan@example.com](mailto:aoaktas@hotmail.com.com)
+- LinkedIn: [Tıklayınız.](https://www.linkedin.com/in/arifozanaktas/)
+- Email: [Tıklayınız.](mailto:aoaktas@hotmail.com.com)
 
 ## 🤝 Katkıda Bulunma
 
