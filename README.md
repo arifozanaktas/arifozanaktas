@@ -15,7 +15,7 @@ Ben Arif Ozan AKTAŞ, Full Stack Developer olarak yazılım dünyasında heyecan
 
 ## 🚀 Yeteneklerim
 
-- Frontend: HTML, CSS, JavaScript, React
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap, Angular
 - Backend: Node.js, Express.js, MongoDB
 - Veritabanları: MySQL, PostgreSQL
 - Diğer: Git, RESTful API
