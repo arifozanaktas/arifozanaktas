@@ -22,8 +22,8 @@ Ben Arif Ozan AKTAŞ, Full Stack Developer olarak yazılım dünyasında heyecan
 
 ## 💼 Projelerim
 
-- [Proje Adı 1](link) - Kısa açıklama projenizle ilgili.
-- [Proje Adı 2](link) - Kısa açıklama projenizle ilgili.
+- [Proje Adı 1](link) - 
+- [Proje Adı 2](link) - 
 
 ## 📫 İletişim
 
